@@ -4,7 +4,7 @@
 
 ## 🎯 1. Objetivo do Projeto
 
-Este projeto foi desenvolvido durante o **[Nome do Hackathon]** com o objetivo principal de analisar o mercado de trabalho para profissionais de dados (Data Scientists, Data Analysts, Data Engineers, etc.).
+Este projeto foi desenvolvido durante o **carrers in data** com o objetivo principal de analisar o mercado de trabalho para profissionais de dados (Data Scientists, Data Analysts, Data Engineers, etc.).
 
 Utilizando um conjunto de dados de vagas publicadas no LinkedIn, buscamos identificar e dissecar quais são as **características, habilidades técnicas (hard skills) e habilidades comportamentais (soft skills)** mais esperadas e valorizadas pelas empresas atualmente.
 
