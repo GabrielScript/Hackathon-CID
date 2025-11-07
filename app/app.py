@@ -9,7 +9,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 ARTIFACTS_DIR = BASE_DIR / "artifacts"
 VECTORIZER_PATH = ARTIFACTS_DIR / "tfidf_vectorizer.pkl"
 MATRIX_PATH = ARTIFACTS_DIR / "vagas_matrix.pkl"
-DF_PATH = ARTIFACTS_DIR / "clean_postings.parquet"
+DF_PATH = ARTIFACTS_DIR / "vagas_limpas.parquet"
 
 @st.cache_resource  # (Clean Code: Cacheia os artefatos na memória)
 def load_artifacts():
